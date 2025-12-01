@@ -12,16 +12,6 @@
 
 # 🌐 Aurevion (AUR)
 
-<p align="center">
-  <img src="https://your-logo-url-here" alt="Aurevion Logo" width="180" />
-</p>
-
-<p align="center">
-  <b>A Transparent, Secure and Community‑Driven Token Built on Binance Smart Chain</b>
-</p>
-
----
-
 ## 📌 Overview
 
 Aurevion (AUR) is a next‑generation utility token designed with **security**, **transparency**, and **long‑term growth** in mind. Built on the Binance Smart Chain (BSC), Aurevion offers:
