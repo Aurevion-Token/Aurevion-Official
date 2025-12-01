@@ -2,15 +2,35 @@
   <img src="Logo X.png" alt="Aurevion Logo" width="180" />
 </p>
 
+<p align="center">
+  <img src="https://dummyimage.com/1200x250/0a0a0a/ffd27f&text=AUREVION+—+Beyond+The+Horizon" alt="Aurevion Banner" />
+</p>
+
+<p align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/BSC-Verified-FFD700?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/badge/Tax-0%25-00c853?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/badge/Supply-10M-orange?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/badge/Security-Enhanced-blue?style=for-the-badge" /></a>
+
+</p>
+
 <h1 align="center">AUREVION (AUR)</h1>
 
 <p align="center">
-  A Transparent, Secure and Community-Driven Token on Binance Smart Chain
+  A Transparent, Secure and Community‑Driven Token on Binance Smart Chain
 </p>
 
 ---
 
-# 🌐 Aurevion (AUR)
+<p align="center">
+  <a href="https://t.me/yourgroup"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://twitter.com/yourproject"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@yourproject"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://reddit.com/r/Aurevion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://github.com/Aurevion-Token"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 📌 Overview
 
 ## 📌 Overview
 
