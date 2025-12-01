@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://dummyimage.com/1200x250/0a0a0a/ffd27f&text=AUREVION+—+Beyond+The+Horizon" alt="Aurevion Banner" />
+  <img src="ChatGPT Image Dec 1, 2025, 11_06_34 AM.png" alt="Aurevion Banner" />
 </p>
 
 <p align="center">
