@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="Logo X.png" alt="Aurevion Logo" width="180" />
+</p>
+
+<h1 align="center">AUREVION (AUR)</h1>
+
+<p align="center">
+  A Transparent, Secure and Community-Driven Token on Binance Smart Chain
+</p>
+
+---
+
 # 🌐 Aurevion (AUR)
 
 <p align="center">
